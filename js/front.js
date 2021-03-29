@@ -1,7 +1,5 @@
 $(function () {
-    // ================================================
     //  NAVBAR 
-    // ================================================
     $(window).on('scroll load', function () {
         if ($(window).scrollTop() > 5) {
             $('.navbar').addClass('active');
@@ -10,9 +8,8 @@ $(function () {
         }
     });
 
-    // ================================================
+
     // Preventing URL update on navigation link click
-    // ================================================
     $('.link-scroll').on('click', function (e) {
         var anchor = $(this);
         $('html, body').stop().animate({
@@ -24,9 +21,7 @@ $(function () {
     });
 
 
-    // ================================================
     // Scroll feature
-    // ================================================
     $('body').scrollspy({
         target: '#navbarSupportedContent',
         offset: 80

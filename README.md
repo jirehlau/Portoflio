@@ -16,7 +16,7 @@ Recommendations
 
 Contact info
 
-![Contact Info](/img/contactMe/png)
+![Contact Info](/img/contactMe.png)
 
 
 Technologies used:
