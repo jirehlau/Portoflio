@@ -2,19 +2,19 @@
 
 [Link-to-Portfolio](https://jirehlau.netlify.app/)
 
-<h2>Skills section</h2>
+<h2>Skills section:</h2>
 
 ![Skills](/img/skills.png)
 
-<h2>Projects</h2>
+<h2>Projects:</h2>
 
 ![Projects](/img/projects.png)
 
-<h2>Recommendations</h2>
+<h2>Recommendations:</h2>
 
 ![Recommendations](/img/recommendations.png)
 
-<h2>Contact info</h2>
+<h2>Contact info:</h2>
 
 ![Contact Info](/img/contactMe.png)
 
