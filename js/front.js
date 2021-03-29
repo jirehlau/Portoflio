@@ -1,6 +1,6 @@
 $(function () {
     // ================================================
-    //  NAVBAR BEHAVIOR
+    //  NAVBAR 
     // ================================================
     $(window).on('scroll load', function () {
         if ($(window).scrollTop() > 5) {
@@ -25,7 +25,7 @@ $(function () {
 
 
     // ================================================
-    // Scroll Spy
+    // Scroll feature
     // ================================================
     $('body').scrollspy({
         target: '#navbarSupportedContent',
