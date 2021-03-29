@@ -20,11 +20,13 @@
 
 
 <h2>Technologies used:</h2>
+
 * HTML <br>
 * CSS <br>
 * JavaScript <br>
 
 <h2>Future Improvements:</h2>
+
 * Transitioning to multi page <br>
 * Create a contact form that redirects to my email once it is submitted <br>
 * Put more animations and JavaScript functions 
