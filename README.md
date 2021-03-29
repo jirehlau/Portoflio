@@ -2,29 +2,29 @@
 
 [Link-to-Portfolio](https://jirehlau.netlify.app/)
 
-Skills section
+<h2>Skills section</h2>
 
 ![Skills](/img/skills.png)
 
-Projects
+<h2>Projects</h2>
 
 ![Projects](/img/projects.png)
 
-Recommendations
+<h2>Recommendations</h2>
 
 ![Recommendations](/img/recommendations.png)
 
-Contact info
+<h2>Contact info</h2>
 
 ![Contact Info](/img/contactMe.png)
 
 
-Technologies used:
+<h2>Technologies used:</h2>
 * HTML <br>
 * CSS <br>
 * JavaScript <br>
 
-Future Improvements:
+<h2>Future Improvements:</h2>
 * Transitioning to multi page <br>
 * Create a contact form that redirects to my email once it is submitted <br>
 * Put more animations and JavaScript functions 
